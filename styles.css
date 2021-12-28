@@ -2,7 +2,7 @@ body {
     font-family: "Space Mono", serif;
 }
 
-h2 {
+h1 {
     font-family:"Inconsolata", serif;
     font-size: 1.5 rem;
     margin-left: 25px;
@@ -18,12 +18,12 @@ img {
     width: 50%;
 }
 .info {
-    margin-top: 100px;
+    margin-top: 75px;
     margin-right: auto;
     font-size: large;
 }
 
-h1 {
+h2 {
     font-size: 4rem;
 }
 
@@ -38,4 +38,18 @@ button {
     color:white;
     padding:10px 24px;
     border-radius: 4px;
+}
+
+.credit {
+    font-family: "Monserrat", serif;
+    font-size: 0.8rem;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 600px;
+    margin-bottom: 24px;
+    color:gray;
+}
+
+.credit a {
+    color: gray;
 }
